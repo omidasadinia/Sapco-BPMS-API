@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f8d80a49-3e3e-470f-8853-4561f5b80f7d": {
+      "ProjectGuid": "f8d80a49-3e3e-470f-8853-4561f5b80f7d",
+      "DisplayName": "BPMS.API",
+      "ColorIndex": 0
+    },
+    "17a5c6e1-acc8-498f-9591-ced90c1d7ac3": {
+      "ProjectGuid": "17a5c6e1-acc8-498f-9591-ced90c1d7ac3",
+      "DisplayName": "BPMS.Domain",
+      "ColorIndex": 1
+    },
+    "e2510e41-5f6b-4624-a158-01685b33622b": {
+      "ProjectGuid": "e2510e41-5f6b-4624-a158-01685b33622b",
+      "DisplayName": "BPMS.Repository",
+      "ColorIndex": 2
+    },
+    "a30cc629-e4a3-47b8-a1e1-f27e19ef5985": {
+      "ProjectGuid": "a30cc629-e4a3-47b8-a1e1-f27e19ef5985",
+      "DisplayName": "BPMS.Business",
+      "ColorIndex": 3
+    },
+    "b14cb1c5-6461-47ed-aaf7-b656799a447a": {
+      "ProjectGuid": "b14cb1c5-6461-47ed-aaf7-b656799a447a",
+      "DisplayName": "BPMS.BasicAuthentication",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}

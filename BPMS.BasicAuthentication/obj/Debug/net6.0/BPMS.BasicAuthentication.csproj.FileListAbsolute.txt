@@ -1,0 +1,15 @@
+D:\DotNet\BPMS Web Service\BPMS.BasicAuthentication\bin\Debug\net6.0\BPMS.BasicAuthentication.deps.json
+D:\DotNet\BPMS Web Service\BPMS.BasicAuthentication\bin\Debug\net6.0\BPMS.BasicAuthentication.dll
+D:\DotNet\BPMS Web Service\BPMS.BasicAuthentication\bin\Debug\net6.0\ref\BPMS.BasicAuthentication.dll
+D:\DotNet\BPMS Web Service\BPMS.BasicAuthentication\bin\Debug\net6.0\BPMS.BasicAuthentication.pdb
+D:\DotNet\BPMS Web Service\BPMS.BasicAuthentication\obj\Debug\net6.0\BPMS.BasicAuthentication.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\BPMS Web Service\BPMS.BasicAuthentication\obj\Debug\net6.0\BPMS.BasicAuthentication.AssemblyInfoInputs.cache
+D:\DotNet\BPMS Web Service\BPMS.BasicAuthentication\obj\Debug\net6.0\BPMS.BasicAuthentication.AssemblyInfo.cs
+D:\DotNet\BPMS Web Service\BPMS.BasicAuthentication\obj\Debug\net6.0\BPMS.BasicAuthentication.csproj.CoreCompileInputs.cache
+D:\DotNet\BPMS Web Service\BPMS.BasicAuthentication\obj\Debug\net6.0\BPMS.BasicAuthentication.dll
+D:\DotNet\BPMS Web Service\BPMS.BasicAuthentication\obj\Debug\net6.0\ref\BPMS.BasicAuthentication.dll
+D:\DotNet\BPMS Web Service\BPMS.BasicAuthentication\obj\Debug\net6.0\BPMS.BasicAuthentication.pdb
+D:\DotNet\BPMS Web Service\BPMS.BasicAuthentication\obj\Debug\net6.0\BPMS.BasicAuthentication.csproj.AssemblyReference.cache
+D:\DotNet\BPMS Web Service\BPMS.BasicAuthentication\bin\Debug\net6.0\BPMS.Domain.dll
+D:\DotNet\BPMS Web Service\BPMS.BasicAuthentication\bin\Debug\net6.0\BPMS.Domain.pdb
+D:\DotNet\BPMS Web Service\BPMS.BasicAuthentication\obj\Debug\net6.0\BPMS.BasicAuthentication.csproj.CopyComplete

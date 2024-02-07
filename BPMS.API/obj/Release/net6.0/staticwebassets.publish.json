@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0QAmRQkWAxcAQ5sYp14zAhRI2A7dnGHvTaUcyTAC3bQ=",
+  "Source": "BPMS.API",
+  "BasePath": "_content/BPMS.API",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

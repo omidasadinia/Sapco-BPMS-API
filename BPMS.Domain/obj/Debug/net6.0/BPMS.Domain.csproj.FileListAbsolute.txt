@@ -1,0 +1,14 @@
+D:\DotNet\BPMS Web Service\BPMS.Domain\bin\Debug\net6.0\BPMS.Domain.deps.json
+D:\DotNet\BPMS Web Service\BPMS.Domain\bin\Debug\net6.0\BPMS.Domain.runtimeconfig.json
+D:\DotNet\BPMS Web Service\BPMS.Domain\bin\Debug\net6.0\BPMS.Domain.dll
+D:\DotNet\BPMS Web Service\BPMS.Domain\bin\Debug\net6.0\ref\BPMS.Domain.dll
+D:\DotNet\BPMS Web Service\BPMS.Domain\bin\Debug\net6.0\BPMS.Domain.pdb
+D:\DotNet\BPMS Web Service\BPMS.Domain\obj\Debug\net6.0\BPMS.Domain.csproj.AssemblyReference.cache
+D:\DotNet\BPMS Web Service\BPMS.Domain\obj\Debug\net6.0\BPMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\BPMS Web Service\BPMS.Domain\obj\Debug\net6.0\BPMS.Domain.AssemblyInfoInputs.cache
+D:\DotNet\BPMS Web Service\BPMS.Domain\obj\Debug\net6.0\BPMS.Domain.AssemblyInfo.cs
+D:\DotNet\BPMS Web Service\BPMS.Domain\obj\Debug\net6.0\BPMS.Domain.csproj.CoreCompileInputs.cache
+D:\DotNet\BPMS Web Service\BPMS.Domain\obj\Debug\net6.0\BPMS.Domain.dll
+D:\DotNet\BPMS Web Service\BPMS.Domain\obj\Debug\net6.0\ref\BPMS.Domain.dll
+D:\DotNet\BPMS Web Service\BPMS.Domain\obj\Debug\net6.0\BPMS.Domain.pdb
+D:\DotNet\BPMS Web Service\BPMS.Domain\obj\Debug\net6.0\BPMS.Domain.genruntimeconfig.cache

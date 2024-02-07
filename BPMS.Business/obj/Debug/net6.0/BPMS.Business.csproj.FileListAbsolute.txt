@@ -1,0 +1,17 @@
+D:\DotNet\BPMS Web Service\BPMS.Business\bin\Debug\net6.0\BPMS.Business.deps.json
+D:\DotNet\BPMS Web Service\BPMS.Business\bin\Debug\net6.0\BPMS.Business.dll
+D:\DotNet\BPMS Web Service\BPMS.Business\bin\Debug\net6.0\ref\BPMS.Business.dll
+D:\DotNet\BPMS Web Service\BPMS.Business\bin\Debug\net6.0\BPMS.Business.pdb
+D:\DotNet\BPMS Web Service\BPMS.Business\bin\Debug\net6.0\BPMS.Domain.dll
+D:\DotNet\BPMS Web Service\BPMS.Business\bin\Debug\net6.0\BPMS.Repository.dll
+D:\DotNet\BPMS Web Service\BPMS.Business\bin\Debug\net6.0\BPMS.Domain.pdb
+D:\DotNet\BPMS Web Service\BPMS.Business\bin\Debug\net6.0\BPMS.Repository.pdb
+D:\DotNet\BPMS Web Service\BPMS.Business\obj\Debug\net6.0\BPMS.Business.csproj.AssemblyReference.cache
+D:\DotNet\BPMS Web Service\BPMS.Business\obj\Debug\net6.0\BPMS.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\BPMS Web Service\BPMS.Business\obj\Debug\net6.0\BPMS.Business.AssemblyInfoInputs.cache
+D:\DotNet\BPMS Web Service\BPMS.Business\obj\Debug\net6.0\BPMS.Business.AssemblyInfo.cs
+D:\DotNet\BPMS Web Service\BPMS.Business\obj\Debug\net6.0\BPMS.Business.csproj.CoreCompileInputs.cache
+D:\DotNet\BPMS Web Service\BPMS.Business\obj\Debug\net6.0\BPMS.Business.csproj.CopyComplete
+D:\DotNet\BPMS Web Service\BPMS.Business\obj\Debug\net6.0\BPMS.Business.dll
+D:\DotNet\BPMS Web Service\BPMS.Business\obj\Debug\net6.0\ref\BPMS.Business.dll
+D:\DotNet\BPMS Web Service\BPMS.Business\obj\Debug\net6.0\BPMS.Business.pdb
